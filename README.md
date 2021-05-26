@@ -6,11 +6,11 @@ Projeto semana Santander Dev Week da Trilha de FullStack Developer. Back-end fei
 
 ### Tópicos
 
-:small_orange_diamond: [Description of the project](#descrição-do-projeto)
+:small_orange_diamond: [Descrição do Projeto](#descrição-do-projeto)
 
 :small_orange_diamond: [Features](#features)
 
-:small_orange_diamond: [Languagens and frameworks](#linguagens-e-frameworks)
+:small_orange_diamond: [Linguagens e frameworks](#linguagens-e-frameworks)
 
 ## Descrição do Projeto
 
