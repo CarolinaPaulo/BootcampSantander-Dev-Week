@@ -15,7 +15,7 @@ Projeto semana Santander Dev Week da Trilha de FullStack Developer. Back-end fei
 ## Descrição do Projeto
 
 <p align="justify">
-    Projeto Fullstack Java + Angular parte 1 liberado!
+    Projeto Fullstack Java + Angular!
 
     Criação de uma API REST com Spring Boot para criação, alteração, exclusão e busca de ativos financeiros (Ações, FIIs, BDRs etc) e, 
     com a API devidamente criada e funcional, front-end feito com um SPA Angular que recrie a tela de cotações, com ênfase na criação de
